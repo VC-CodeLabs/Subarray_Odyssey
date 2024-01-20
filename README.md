@@ -1,9 +1,16 @@
 # Subarray_Odyssey
 
-🚀 Get ready to embark on an exhilarating journey through the realms of algorithmic challenges! Presenting the Maximum Subarray Odyssey - a quest that beckons you to harness the raw power of numbers and unravel the secrets of optimal efficiency. Your mission, should you choose to accept it, is to navigate through a tumultuous sea of integers and discover a contiguous subarray that holds the treasure of the Largest Sum. But that's not all - your true prowess will be tested as you're tasked not only with finding the golden sum but also with pinpointing the exact boundaries of this legendary subarray, marking the starting and ending indices of your rich find.
+🚀 Given an integer array nums, find the contiguous subarray (containing at least one number) that has the largest sum and return both its sum and the starting and ending indices of this subarray.
 
-Your weapons? Your wit, your knack for efficiency, and your coding skills. Sharpen your algorithms and brace yourself for an adventure where time complexity is your stealthy speed and space complexity your armor. Dive into this odyssey, emerge with the optimal solution, and etch your name in the annals of coding legendry! May the code be with you! 🌟✨
+Example 1:
+Input: nums = [-2, 1, -3, 4, -1, 2, 1, -5, 4]
+Output: Sum = 6, Subarray Indices = [3, 6]
+Explanation: The subarray [4, -1, 2, 1] has the largest sum = 6. The starting index of this subarray is 3 and the ending index is 6. 
 
+Example 2:
+Input: nums = [5, -12, 3, 2, 9, -10, 4]
+Output: Sum = 14, Subarray Indices = [2, 4]
+Explanation: The subarray [3, 2, 9] has the largest sum = 14. The starting index of this subarray is 2 and the ending index is 4.
 
 🚀 Challenge Constraints
 Array Size: The input array may contain up to 10^6 integers.
