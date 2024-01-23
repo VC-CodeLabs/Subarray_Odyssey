@@ -14,7 +14,7 @@ Explanation: The subarray [3, 2, 9] has the largest sum = 14. The starting index
 
 🚀 Challenge Constraints
 Array Size: The input array may contain up to 10^6 integers.
-Number Range: The integers in the input array will range from -2,147,483,648 to 2,147,483,647.
+Number Range: The integers in the input array will range from -2,147 to 2,147.
 Non-Empty Subarray: Every valid input array will contain at least one integer.
 
 📤 Submission Guidelines
